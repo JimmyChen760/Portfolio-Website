@@ -1,0 +1,11 @@
+Model Information:
+* title:	London phone booth
+* source:	https://sketchfab.com/3d-models/london-phone-booth-0c21f6ac8d44452197751910527c3b0f
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "London phone booth" (https://sketchfab.com/3d-models/london-phone-booth-0c21f6ac8d44452197751910527c3b0f) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
