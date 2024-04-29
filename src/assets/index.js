@@ -33,6 +33,7 @@ import tesla from "./company/tesla.png";
 
 import pussbond from "./pbwebsite.png";
 import jobit from "./jobit.png";
+import Portfolio from "./Portfolio.png"
 import tripguide from "./tripguide.png";
 
 export {
@@ -68,4 +69,6 @@ export {
   frontends,
   advanced,
   ai,
+  Portfolio,
+  
 };
