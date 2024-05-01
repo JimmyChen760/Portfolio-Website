@@ -5,6 +5,7 @@ import { styles } from '../style';
 import { services } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 import { SectionWrapper } from '../hoc';
+import { Resume } from '../assets';
 
 const ServiceCard = ({ index, title, icon }) => {
   return (
@@ -44,7 +45,7 @@ const About = () => {
       className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am a second year computer science student currently studying
-        at Wilfrid Laurier University. Click <a href='../assets/Jimmy Chen - Resume.pdf' download="Jimmy Chen's Resume">here</a> to download my resume. Below are the skills
+        at Wilfrid Laurier University. Click <a href={Resume} download="Jimmy-Chen's-Resume" className="underline hover:underline-offset-5">here</a> to download my resume. Below are the skills
         I currently have:
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>

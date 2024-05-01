@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import Resume from "./JimmyChenResume.pdf"
 
 import databackend from "./databackend.png";
 import frontends from './frontends.png';
@@ -70,5 +71,6 @@ export {
   advanced,
   ai,
   Portfolio,
+  Resume,
   
 };
