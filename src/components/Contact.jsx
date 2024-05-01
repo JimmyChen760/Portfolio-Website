@@ -58,6 +58,9 @@ const Contact = () => {
       >
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
+        <p className="sm:text-[14px] text-[10px] text-secondary tracking-wider">Email: jimmychen760@gmail.com</p>
+        <p className="sm:text-[14px] text-[10px] text-secondary tracking-wider">Github: JimmyChen760</p>
+
         <form
           ref={formRef}
           onSubmit={handleSubmit}
