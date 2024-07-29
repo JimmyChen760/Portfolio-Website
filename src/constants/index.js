@@ -172,14 +172,7 @@ import {
       description:
         "A simple website made in hopes of helping a cat get adopted. Explores different simple react libraries such as slides, photo collage, and card items, along with website basics such as video backgrounds and adding audio.",
       tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Javascript",
-          color: "green-text-gradient",
-        },
+        
         
       ],
       image: pussbond,
@@ -188,20 +181,9 @@ import {
     {
       name: "Portfolio Website",
       description:
-        "",
+        "My second website made after playing around with more movement as well as loading in gltf models on a website through Three.js",
       tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "three.js",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
+        
       ],
       image: Portfolio,
       source_code_link: "https://github.com/JimmyChen760/Three-JS",
